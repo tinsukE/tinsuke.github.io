@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="_x32_"
+   width="800px"
+   height="800px"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="ic_blog.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showguides="true"
+   inkscape:zoom="1.37125"
+   inkscape:cx="400"
+   inkscape:cy="400"
+   inkscape:current-layer="g2" />
+<style
+   type="text/css"
+   id="style1">
+<![CDATA[
+	.st0{fill:#000000;}
+]]>
+</style>
+<g
+   id="g2"
+   transform="matrix(0.93749845,0,0,0.92069279,36.459408,0)">
+	<path
+   class="st0"
+   d="m 421.073,221.719 c 0.39246,18.7498 -19.71213,29.62172 -23.797,44.97099 -0.2319,60.58576 0.46422,121.21897 -0.3488,181.77501 -3.97235,16.99833 -23.2416,12.9049 -36.23817,13.348 H 81.558 C 64.983923,462.02268 63.331191,444.12154 64.511,431.65127 V 152.219 c -0.0081,-16.51923 18.051697,-17.81704 30.458728,-16.75 H 240.167 C 251.02189,118.18939 276.06776,97.03487 282.6665,85.282 213.31587,85.504021 143.93755,84.833825 74.604555,85.624564 38.247251,88.20038 9.3567622,123.42419 13.308,159.53549 c 0.05765,96.32005 -0.115331,192.64301 0.08653,288.96124 1.006404,37.45748 37.566908,67.12613 74.259707,63.50327 98.682053,-0.0581 197.367013,0.11641 296.047243,-0.0875 37.16272,-0.73188 68.49656,-35.92571 64.76252,-72.94672 V 203.46902 c -8.35496,5.87374 -17.65386,13.326 -27.391,18.25 z"
+   id="path1"
+   sodipodi:nodetypes="sccccccccccccccccss" />
+	<path
+   class="st0"
+   d="m 498.058,0 c 0,0 -15.688,23.438 -118.156,58.109 -104.485,35.36 -168.798,179.204 -168.798,179.204 -15.484,29.469 -76.688,151.906 -76.688,151.906 -16.859,31.625 14.031,50.313 32.156,17.656 34.734,-62.688 57.156,-119.969 109.969,-121.594 77.047,-2.375 129.734,-69.656 113.156,-66.531 -21.813,9.5 -69.906,0.719 -41.578,-3.656 68,-5.453 109.906,-56.563 96.25,-60.031 -24.109,9.281 -46.594,0.469 -51,-2.188 C 513.386,138.281 498.058,0 498.058,0 Z"
+   id="path2" />
+</g>
+</svg>
